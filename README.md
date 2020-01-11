@@ -1,2 +1,2 @@
-# Homework1
-A simple HTML with my CV
+# HomeWork1
+myfirstwebsite
